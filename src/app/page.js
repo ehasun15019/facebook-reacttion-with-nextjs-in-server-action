@@ -1,7 +1,9 @@
+import "@fortawesome/fontawesome-free/css/all.min.css";
+
 export default function Home() {
   return (
     <div>
-      <i className="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
     </div>
   );
 }
