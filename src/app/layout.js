@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className="px-8">
-        <main className="mx-auto rounded max-w-5xl min-h-[100vh]">
+        <main className="mx-auto rounded max-w-5xl min-h-[100vh] flex flex-col justify-center items-center">
           {children}
         </main>
       </body>

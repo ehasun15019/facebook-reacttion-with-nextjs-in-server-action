@@ -1,1 +1,5 @@
-import mypic from './mypic.jpg'
+import my_pic from "./my_pic.jpg";
+
+export const assets = {
+  my_pic,
+};
