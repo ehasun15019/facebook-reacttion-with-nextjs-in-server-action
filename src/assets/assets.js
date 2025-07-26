@@ -1,0 +1,1 @@
+import mypic from './mypic.jpg'
